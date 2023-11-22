@@ -15,7 +15,7 @@ public class nyobaWir {
         double change = 0.0;
 
         System.out.println("-----WELCOME TO SIX ELEVEN MARKET-----");
-        System.out.println("-------------LIST OF ITEM-------------"); // Menampilkan daftar barang
+        System.out.println("-------------LIST OF ITEM-------------"); // Menampilkan daftar baran
         // For untuk mendeklarasi menggunakan tipe data apa dan inisialisasi
         for (int i = 0; i < productList.length; i++) {
             String itemFormat = "%2d. %-20s  Rp.%,8.0f";
